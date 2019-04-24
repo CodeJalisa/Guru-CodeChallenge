@@ -1,0 +1,7 @@
+logging:
+  level: INFO
+  loggers:
+    com.getguru.interview: DEBUG
+http:
+  port: 8080
+  adminPort: 8081
